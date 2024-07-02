@@ -1,5 +1,5 @@
 # Hello 👋
-# I'm Parker
+# I'm Parker and 𝚒 𝚕𝚒𝚔𝚎 𝚌𝚑𝚎𝚎𝚜𝚎
 | Language | Skill |
 | ----------- | ----------- |
 | JS | not good, dont know |
@@ -7,3 +7,5 @@
 | HTML | fine |
 | CSS | meh |
 | Scratch | 👍 |
+
+𝚌🅗🅘🄲𝗸𝖊𝚗 𝒏🅤𝗴𝕘𝓮𝐭
