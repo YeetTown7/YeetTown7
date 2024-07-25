@@ -10,5 +10,5 @@
 
 𝚌🅗🅘🄲𝗸𝖊𝚗 𝒏🅤𝗴𝕘𝓮𝐭
 
-![](phw.servegame.com/cat.jpg)
+![](http://phw.servegame.com/cat.jpg)
 ![](1721917482.jpg)
