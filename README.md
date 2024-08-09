@@ -1,5 +1,8 @@
 # Hello 👋
 # I'm Parker and 𝚒 𝚕𝚒𝚔𝚎 𝚌𝚑𝚎𝚎𝚜𝚎
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 | Language | Skill |
 | ----------- | ----------- |
 | JS | not good, dont know |
