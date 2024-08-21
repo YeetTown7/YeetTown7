@@ -5,7 +5,7 @@
 
 | Language | Skill |
 | ----------- | ----------- |
-| JS | not good, dont know |
+| JS | fine |
 | Python | fine |
 | HTML | fine |
 | CSS | meh |
