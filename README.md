@@ -17,4 +17,4 @@
 ![](1721917482.jpg)
 :fishsticks:
 
-credit to: ryo-ma
+credit to: ryo-ma for the trophies
